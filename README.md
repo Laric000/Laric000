@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hello, World! 
 
 <!--
 **Laric000/Laric000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
