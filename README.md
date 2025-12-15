@@ -1,16 +1,15 @@
 ## Hello, World! 
 
-<!--
-**Laric000/Laric000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://i.imgur.com/gQEG4O6.png)
 
-Here are some ideas to get you started:
+- 🗺️ Caicó, RN.
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Developer
+
+### Linguagens que atualmente estudo
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,mysql,html,css,js)](https://skillicons.dev)
+⠀
+### Ferramentas que atualmente estudo
+[![Tools and extras](https://skillicons.dev/icons?i=figma,notion,obsidian,linux,git,github,flask,django)](https://skillicons.dev)
+
