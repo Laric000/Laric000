@@ -11,5 +11,5 @@
 [![Programming Languages](https://skillicons.dev/icons?i=py,java,mysql,html,css,js)](https://skillicons.dev)
 ⠀
 ### Ferramentas que atualmente estudo
-[![Tools and extras](https://skillicons.dev/icons?i=figma,linux,git,github,django)](https://skillicons.dev)
+[![Tools and extras](https://skillicons.dev/icons?i=figma,linux,git,github)](https://skillicons.dev)
 
