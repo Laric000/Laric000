@@ -1,6 +1,6 @@
 ## Hello, World! 
 
-![GIF](bannergit.GIF)
+![jpg](blackcat.jpg)
 
 
 ## Developer
