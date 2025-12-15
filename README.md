@@ -1,8 +1,6 @@
 ## Hello, World! 
 
 
-- 🗺️ Caicó, RN.
-
 
 ## Developer
 
