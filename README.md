@@ -1,6 +1,6 @@
 ## Hello, World! 
 
-![banner](https://i.imgur.com/gQEG4O6.png)
+![banner](https://[i.imgur.com/gQEG4O6](https://pin.it/4hRb2cSnb).png)
 
 - 🗺️ Caicó, RN.
 - 
