@@ -3,8 +3,8 @@
 
 
 ### Linguagens
-[![Programming Languages](https://skillicons.dev/icons?i=py,java,mysql,html,css,js)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,mysql,html,css,js)](https://skillicons.dev)
 ⠀
 ### Ferramentas
-[![Tools and extras](https://skillicons.dev/icons?i=figma,linux,git,gitlab,github)](https://skillicons.dev)
+[![Tools and extras](https://skillicons.dev/icons?i=figma,git,gitlab,github)](https://skillicons.dev)
 
